@@ -74,7 +74,7 @@ C:\Users\Administrator\AppData\Local\Android\sdk\build-tools\29.0.2
 
 ```text
 adb            验证 platform-tools 是否配置成功  
-aapt           验证 build-tools 是否配置成功  
+aapt           验证 build-tools 是否配置成功(需要在C:\Users\Administrator\AppData\Local\Android\Sdk\build-tools\29.0.2目录下验证)
 monkeyrunner   验证 tools 是否配置成功(需要在C:\Users\Administrator\AppData\Local\Android\sdk\tools\bin目录下验证)  
 ```  
 
